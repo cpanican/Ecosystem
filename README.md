@@ -7,9 +7,3 @@ An application that shows a self sustaining ecosystem. The program will be runni
 `backend` contains the ecosystem's brain. Keeps track of each element and their properties.
 
 `frontend` fetches requests from backend server and displays them on a board like structure.
-
-## Tech stack
-
-- Node
-- Express
-- React
