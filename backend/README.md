@@ -2,6 +2,8 @@
 
 `backend` will process all the data behind the scenes. Adjustments will be made here.
 
+## Tech Stack
+
 ## Attributes
 
 Properties of each element in the ecosystem. Every organism will have their own unique property.
