@@ -4,6 +4,14 @@
 
 ## Tech Stack
 
+* Node
+* Express
+* Postgres
+
+`or`
+
+* Firebase (undecided)
+
 ## Attributes
 
 Properties of each element in the ecosystem. Every organism will have their own unique property.
