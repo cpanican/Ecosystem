@@ -12,4 +12,4 @@ This is a React application using [cpanican/react-boilerplate-setup](https://git
 * Jest
 * Eslint
 
-I've also added Redux as a way to store global state.
+I've also added Redux as a way to store global state using Redux.
