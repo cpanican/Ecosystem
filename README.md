@@ -7,3 +7,14 @@ An application that shows a self sustaining ecosystem. The program will be runni
 `backend` contains the ecosystem's brain. Keeps track of each element and their properties.
 
 `frontend` fetches requests from backend server and displays them on a board like structure.
+
+## Graphics
+
+The sprites will be taken from these resources
+
+1. https://kenney.nl/
+
+2. https://opengameart.org/
+
+3. http://hasgraphics.com/
+
